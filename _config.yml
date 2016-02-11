@@ -1,0 +1,28 @@
+name: mus354rock
+favicon: null
+layout_spectrum: 0.5173843139782548
+typography_spectrum: 0.3111740527674556
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.19909216556698084
+  lightness: 0.9015692903194577
+  saturation: 0.3628263215068728
+  rhythmicContrast: 0.12494217487983406
+purpose: []
